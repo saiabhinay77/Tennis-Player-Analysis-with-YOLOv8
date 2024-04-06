@@ -10,8 +10,7 @@ This project analyzes Tennis players in a video to measure their speed, ball sho
 
 
 ## Output 
-![synframe416_jpg rf fa64da6be603ba91df77d2f25dfd2df8](https://github.com/saiabhinay77/Tennis-Player-Analysis-with-YOLOv8/assets/85699213/b5c6bc45-93ff-49e7-92b4-8b2494e4f1a1)
-
+![synframe416_jpg rf fa64da6be603ba91df77d2f25dfd2df8]
 ![screenshot](https://github.com/saiabhinay77/Tennis-Player-Analysis-with-YOLOv8/assets/85699213/36948c8b-d59b-468f-bd02-075275048e1b)
 
 
