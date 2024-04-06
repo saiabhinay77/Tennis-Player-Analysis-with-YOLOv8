@@ -20,6 +20,8 @@ Here is a screenshot from one of the output videos:
 ## Training
 * Tennis ball detetcor with YOLO: training/tennis_ball_detector_training.ipynb
 * Tennis court keypoint with Pytorch: training/tennis_court_keypoints_training.ipynb
+![image](https://github.com/saiabhinay77/Tennis-Player-Analysis-with-YOLOv8/assets/85699213/0fd887fc-af28-47eb-aa98-b8c270b73d77)
+
 
 ## Requirements
 * python3.8
