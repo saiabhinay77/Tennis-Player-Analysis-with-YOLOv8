@@ -24,7 +24,7 @@ screenshot.jpeg
 ![image](https://github.com/saiabhinay77/Tennis-Player-Analysis-with-YOLOv8/assets/85699213/0fd887fc-af28-47eb-aa98-b8c270b73d77)
 
 
-##plot mid_y_rolling_mean
+
 ![image](https://github.com/saiabhinay77/Tennis-Player-Analysis-with-YOLOv8/assets/85699213/a4f3282a-8547-4a97-804c-31bf6e165717)
 
 
