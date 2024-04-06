@@ -6,7 +6,6 @@ This project analyzes Tennis players in a video to measure their speed, ball sho
 
 ## Input 
 
-C:\Users\user\Pictures\plot\New folder\TENNIS_ANALYSIS-MAINS\input_videos\input_video.mp4
 
 ![image](https://github.com/saiabhinay77/Tennis-Player-Analysis-with-YOLOv8/assets/85699213/204a4647-3a9a-425c-b15e-ff67d738baf8)
 
